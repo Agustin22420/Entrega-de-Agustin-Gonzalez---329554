@@ -5,6 +5,7 @@
 
 #funcion para solicitar usuario, contrasena y verificar que sean correctas.
 solicitar_y_autenticar(){
+	echo"Bienvendio profe" 
 	echo"" #Para que aparezca una fila vacia (cuestion estetica).
 	usuario=usuario
 	contrasena=contrasena
