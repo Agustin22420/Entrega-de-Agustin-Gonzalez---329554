@@ -1,11 +1,7 @@
 # Entrega Agustin Gonzalez - 329554
 #!/bin/bash
 
-#ESTE CODIGO FUE REALIZADO PARA LA ENTREGA DEL OBLIGATORIO 1 DE TALLER DE TECNOLOGIAS
-#REALIZADO POR:
-#FRANCO FAUSTINO (328298)
-#CELINA MARRERO (335308)
-#AGUSTIN GONZALEZ (329554)
+
 
 #funcion para solicitar usuario, contrasena y verificar que sean correctas.
 solicitar_y_autenticar(){
